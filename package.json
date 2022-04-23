@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/TinyMan/window-screenshot#readme",
   "dependencies": {
-    "edge": "^6.5.1"
+    "edge-js": "^16.6.0"
   }
 }
